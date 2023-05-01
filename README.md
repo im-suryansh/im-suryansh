@@ -1,10 +1,8 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+
 <h1 align="center">Hi 👋, I'm Suryansh Raj Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align='right' alt='coding' width='400' src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-suryansh&label=Profile%20views&color=0e75b6&style=flat" alt="im-suryansh" /> </p>
-
+<img align='right' alt='coding' width='300' src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-suryansh" alt="im-suryansh" /></a> </p>
 
 - 🔭 I’m currently working on [Blessed Ecommerce site](https://github.com/im-suryansh/Blessedecom)
